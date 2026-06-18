@@ -1,19 +1,20 @@
 {
-  "name": "image-compressor",
+  "name": "photo-compress-tool",
   "version": "1.0.0",
-  "description": "A fast, free image compressor for social media and messaging",
+  "description": "A free online tool to compress images for social media and messaging",
   "main": "index.js",
   "scripts": {
-    "dev": "wrangler dev",
-    "deploy": "wrangler deploy"
+    "start": "node index.js"
   },
-  "keywords": ["image", "compressor", "tool"],
+  "keywords": [
+    "image",
+    "compress",
+    "tool",
+    "online"
+  ],
   "author": "Sneha Bhusari",
   "license": "MIT",
   "dependencies": {
     "hono": "^4.0.0"
-  },
-  "devDependencies": {
-    "wrangler": "^3.0.0"
   }
 }
