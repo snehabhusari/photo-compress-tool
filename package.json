@@ -2,6 +2,7 @@
   "name": "photo-compress-tool",
   "version": "1.0.0",
   "description": "A free online tool to compress images for social media and messaging",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
