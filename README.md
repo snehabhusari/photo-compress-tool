@@ -1,4 +1,4 @@
-# Image Compressor
+# Image Compressor tool
 
 A fast, free online tool to compress images for social media, messaging, and more.
 
