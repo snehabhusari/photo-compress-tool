@@ -25,7 +25,7 @@ I needed a simple, free way to compress images before uploading to social media 
 ## Deployment
 
 Deployed on Vercel's free plan.
-
+🔗Link-https://photo-compress-tool.vercel.app/
 ## Author
 
 **Sneha Bhusari**  
